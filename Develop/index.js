@@ -33,7 +33,7 @@ const questions = [
         type: 'list',
         name: 'liscense',
         message: 'Which liscense would you like to use?',
-        choices: ["GPL", "Apache 2.0", "BSD", "MIT", "none"]
+        choices: ["Apache 2.0", "GPLv3", "ISC", "MIT", "none"]
     },
     {
         type: 'input',
