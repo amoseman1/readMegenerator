@@ -1,12 +1,12 @@
 
 
-
+const index = require("../index")
 
 
 
 //need function for selecting the right badge icon from users liscense choice
 function displayBadge(data) {
-  (data.liscense !== "none") ? ("https://img.shields.io/badge/license-${license}-blue.svg") :
+  (data.liscense !== "none") ? `[![liscense badge]("https://img.shields.io/badge/license-${data.license}-blue.svg")]` :
     null
 };
 
@@ -23,11 +23,11 @@ function generateMarkdown(data) {
 
   ## Table Of Contents:
 
-  -[Installation](#Installation) 
-  -[Usage](#Usage) 
-  -[Liscense](#Liscense) 
-  -[Contributing](#Contributing) 
-  -[Tests](#Tests)
+  -[Installation](#Installation) </br>
+  -[Usage](#Usage) </br>
+  -[Liscense](#Liscense) </br> 
+  -[Contributing](#Contributing) </br>
+  -[Tests](#Tests) </br>
   -[Questions](#Questions)
 
   ## Installation
@@ -53,7 +53,7 @@ function generateMarkdown(data) {
   ## Questions
 
   If you have any questions about this repo, open an issue or contact me directly at **${data.email}**. 
-  You can find more of my work at [${data.github}](https://github.com/${data.github}/)
+  You can find more of my work at [github.com/${data.github}](https://github.com/${data.github}/)
 
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
   `;
