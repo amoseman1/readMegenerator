@@ -1,11 +1,23 @@
+
+
+
+
+
+
+//need function for selecting the right badge icon from users liscense choice
+function displayBadge(data) {
+  (data.liscense !== "none") ? ("https://img.shields.io/badge/license-${license}-blue.svg") :
+    null
+};
+
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `
-  # ${data.title} `
+  # ${data.title}
 
-    + liscenseImage +
+  ${displayBadge(data.liscense)}
 
-    `## Description
+  ## Description
 
   ${data.description}
 
@@ -26,12 +38,11 @@ function generateMarkdown(data) {
 
   ${data.usage}
 
-  ## Liscense`
+  ## Liscense 
 
-    + liscenseInfo +
+  
 
-
-    `## Contributing
+  ## Contributing
 
   ${data.author}
 
@@ -47,6 +58,7 @@ function generateMarkdown(data) {
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
   `;
 }
+
 
 
 module.exports = generateMarkdown;
