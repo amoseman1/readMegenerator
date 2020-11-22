@@ -1,20 +1,20 @@
 
-  # d;ofjb
+  # Readme generator
 
-  [![liscense badge]("https://img.shields.io/badge/license-GPLv3-blue.svg")]
+  [![liscense badge](https://img.shields.io/badge/license-Apache 2.0-blue.svg)]
 
   ## Description
 
-  d;ajbv
+  this is a shortcut for me and other devs to add necessary info to their projects
 
   ## Table Of Contents:
 
-  -[Installation](#Installation) </br>
-  -[Usage](#Usage) </br>
-  -[Liscense](#Liscense) </br> 
-  -[Contributing](#Contributing) </br>
-  -[Tests](#Tests) </br>
-  -[Questions](#Questions)
+  *[Installation](#Installation) 
+  *[Usage](#Usage) 
+  *[Liscense](#Liscense) 
+  *[Contributing](#Contributing) 
+  *[Tests](#Tests) 
+  *[Questions](#Questions)
 
   ## Installation
 
@@ -22,24 +22,24 @@
 
   ## Usage
 
-  ;fv
+  a walkthrough video and screenshots
 
   ## Liscense 
 
-  
+  Apache 2.0
 
   ## Contributing
 
-  kjdbv
+  Amy Moseman
 
   ## Tests
 
-  :KSDJBV
+  npm test
 
   ## Questions
 
-  If you have any questions about this repo, open an issue or contact me directly at **SDv**. 
-  You can find more of my work at [github.com/SDv](https://github.com/SDv/)
+  If you have any questions about this repo, open an issue or contact me directly at **amoseman18@gmail.com**. 
+  You can find more of my work at Github: [amoseman1](https://github.com/amoseman1/)
 
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
   
