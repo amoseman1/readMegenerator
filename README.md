@@ -1,7 +1,7 @@
 # readMegenerator
 
 Description:
-As a developer I have created a ReadMe generator so I can easily use a template to create my md file with the input provided. This will be useful for every project as this is critical information needed along any application or project and will save me a lot of time.
+As a developer I have created a ReadMe generator so I can easily use a template to create my md file with the input provided. This will be useful for every project as this is critical information needed along any application or project and will save me and other developers precious time that can be spent coding!
 
 ```md
 GIVEN a command-line application that accepts user input
@@ -20,6 +20,12 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
+
+## Contributing
+- Javascript
+- Node JS
+- Inquirer Package
+- Shields.io
 
 ## Screenshot of Example ReadMe Generated
 
