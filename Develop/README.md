@@ -1,45 +1,48 @@
 
-  # Readme generator
+  # jshfad
 
-  [![liscense badge](https://img.shields.io/badge/license-Apache 2.0-blue.svg)]
+ function displayBadge(data) {
+  (data.liscense !== "none") ? `[![liscense badge]("https://img.shields.io/badge/license-${data.liscense}-blue.svg")]` :
+    null
+}
 
   ## Description
 
-  this is a shortcut for me and other devs to add necessary info to their projects
+  asf
 
   ## Table Of Contents:
 
-  *[Installation](#Installation) 
-  *[Usage](#Usage) 
-  *[Liscense](#Liscense) 
-  *[Contributing](#Contributing) 
-  *[Tests](#Tests) 
-  *[Questions](#Questions)
+  -[Installation](#Installation) </br>
+  -[Usage](#Usage) </br>
+  -[Liscense](#Liscense) </br> 
+  -[Contributing](#Contributing) </br> 
+  -[Tests](#Tests) </br>
+  -[Questions](#Questions)
 
   ## Installation
 
-  npm i
+  zsc
 
   ## Usage
 
-  a walkthrough video and screenshots
+  asdas
 
   ## Liscense 
 
-  Apache 2.0
+  Apache2.0
 
   ## Contributing
 
-  Amy Moseman
+  
 
   ## Tests
 
-  npm test
+  zdfcz
 
   ## Questions
 
-  If you have any questions about this repo, open an issue or contact me directly at **amoseman18@gmail.com**. 
-  You can find more of my work at Github: [amoseman1](https://github.com/amoseman1/)
+  If you have any questions about this repo, open an issue or contact me directly at **asfcz**. </br>
+  You can find more of my work at Github: [czfs](https://github.com/czfs/)
 
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
   
