@@ -23,7 +23,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Screenshot of Example ReadMe Generated
 
-![screenshot]Develop/screenshot.png ![screenshot2]Develop/screenshot2.png
+![screenshot](Develop/screenshot.png) ![screenshot2](Develop/screenshot2.png)
 
 ## Link to video walkthrough of functionality
 
