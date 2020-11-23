@@ -34,7 +34,8 @@ function generateMarkdown(data) {
 
   ## Liscense 
 
-  ${data.liscense}
+  For more information about the liscense chosen, follow the link below:
+  [Liscense](https://opensource.org/liscenses/${data.liscense})
 
   ## Contributing
 
