@@ -1,9 +1,3 @@
-//need function for selecting the right badge icon from users liscense choice
-// function displayBadge(data) {
-//   const badgeLiscense = (data.liscense !== "none") ? `[![liscense badge]("https://img.shields.io/badge/license-${data.liscense}-blue.svg")]` :
-//     null
-// };
-
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `
@@ -35,7 +29,7 @@ function generateMarkdown(data) {
   ## Liscense 
 
   For more information about the liscense chosen, follow the link below:
-  ![Liscense](https://opensource.org/liscenses/${data.liscense})
+  [Liscense](https://opensource.org/liscenses/${data.liscense})
   
   ## Contributing
 
@@ -53,7 +47,5 @@ function generateMarkdown(data) {
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
   `;
 }
-
-
 
 module.exports = generateMarkdown;

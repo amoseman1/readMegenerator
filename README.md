@@ -21,8 +21,14 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 ```
 
+## Screenshot of Example ReadMe Generated
+
+![screenshot]Develop/screenshot.png ![screenshot2]Develop/screenshot2.png
+
 ## Link to video walkthrough of functionality
 
-### link to Gihub Repository
+[Video](https://drive.google.com/file/d/1p-z-CQ6DTk9A_LtdoGCWrc-JwXa_cbRu/view)
+
+## link to Gihub Repository
 
 [ReadMe Genereator Repo](https://github.com/amoseman1/readMegenerator)
