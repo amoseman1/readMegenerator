@@ -9,7 +9,7 @@ function generateMarkdown(data) {
   return `
   # ${data.title}
 
-![Liscense](https://img.shields.io/badge/license-${data.liscense}-blue.svg "liscense badge")
+  ![Liscense](https://img.shields.io/badge/license-${data.liscense}-blue.svg)
 
   ## Description
 
@@ -35,8 +35,8 @@ function generateMarkdown(data) {
   ## Liscense 
 
   For more information about the liscense chosen, follow the link below:
-  [Liscense](https://opensource.org/liscenses/${data.liscense})
-
+  ![Liscense](https://opensource.org/liscenses/${data.liscense})
+  
   ## Contributing
 
   ${data.author}

@@ -1,11 +1,11 @@
 
-  # readme
+  # ajkbf
 
-![Liscense](https://img.shields.io/badge/license-ISC-blue.svg "liscense badge")
+  ![Liscense](https://img.shields.io/badge/license-Apache2.0-blue.svg)
 
   ## Description
 
-  generator
+  jefbcw
 
   ## Table Of Contents:
 
@@ -18,29 +18,29 @@
 
   ## Installation
 
-  npm i
+  zkjdbc
 
   ## Usage
 
-  see below
+  akdjbf
 
   ## Liscense 
 
   For more information about the liscense chosen, follow the link below:
-  [Liscense](https://opensource.org/liscenses/ISC)
-
+  ![Liscense](https://opensource.org/liscenses/Apache2.0)
+  
   ## Contributing
 
-  Amy Moseman
+  dkfjb
 
   ## Tests
 
-  npm test
+  aksjfbcas
 
   ## Questions
 
-  If you have any questions about this repo, open an issue or contact me directly at **amoseman18@gmail.com**. </br>
-  You can find more of my work at Github: [amoseman1](https://github.com/amoseman1/)
+  If you have any questions about this repo, open an issue or contact me directly at **kdbcjskcb**. </br>
+  You can find more of my work at Github: [kzscbkjz](https://github.com/kzscbkjz/)
 
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
   
